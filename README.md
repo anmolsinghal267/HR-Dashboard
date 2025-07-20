@@ -12,10 +12,11 @@ Data Cleaning
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present in column named "YearsWithCurrManager".
 - Step 5 : In order to remove those null values I sorted the column in Ascending Order and then I deleted top 57 rows inorder to get rid of those empty Rows.
-- Step 6 : Whole Table was then selected and Duplicated rows as a whole was deleted 
+- Step 6 : Whole Table was then selected and Duplicated rows as a whole was deleted.
+- Step 7 : In the "BusinessTravel" column "TravelRarely" is replaced by "Travel_Rarely". 
 - Step 7: Then the changes are closed and applied.
 - Step 8 : In the report view, under the view tab, black wallpaper was selected.
-- Step 9 : Several important KPI's are showed using a card visual which includes "Overall Employee","Attrition Count","Attrition Rate","Average Age","Average Salary" 
+- Step 9 : Several important KPI's are showed using a card visual which includes "Overall Employee","Attrition Count","Attrition Rate","Average Age","Average Salary". 
 - Step 10 : Visual filters (Slicers) were added for three fields named "Human Resources", "Research & Development", "Sales".
 - Step 11 : New measure was created inside a Measure Table to calculate Total Attrition Rate 
 
