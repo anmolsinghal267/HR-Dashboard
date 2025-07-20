@@ -16,6 +16,7 @@ Data Cleaning
 - Step 7 : Whole Table was then selected and Duplicated rows as a whole was deleted.
 - Step 8 : In the "BusinessTravel" column "TravelRarely" is replaced by "Travel_Rarely". 
 - Step 9: Then the changes are closed and applied.
+
 Dashboard Creation
 - Step 10 : In the report view, under the view tab, black wallpaper was selected.
 - Step 11 : Several important KPI's are showed using a card visual which includes "Overall Employee","Attrition Count","Attrition Rate","Average Age","Average Salary". 
